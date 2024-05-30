@@ -1,0 +1,6 @@
+======== vue connect in laravel ========
+step 01: npm install vue@latest vue-loader@latest
+step 02: npm install --save-dev @vitejs/plugin-vue
+step 03: in vite.config file ==> import vue from '@vitejs/plugin-vue';
+step 04: npm install && npm run build
+step 05: open php artisan serve and npm run dev
